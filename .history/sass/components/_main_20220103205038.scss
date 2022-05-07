@@ -1,0 +1,12 @@
+.title, .title__main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate( -50%, -50%, 0);
+    font-size: 13rem;
+}
+.title::after, .title::before, 
+.title__main::after .title__main::before {
+    content: "2022";
+    di
+}
